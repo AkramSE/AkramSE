@@ -11,8 +11,8 @@
 ### 👨‍💻 About Me
 - 🎓 I'm currently in my 3rd year of Software Engineering at the **University of Sindh**.
 - 💡 Strongly focused on **Data Structures & Algorithms (DSA)**, object-oriented programming, and clean code architecture.
-- 🌱 Currently expanding my backend and full-stack knowledge with **Java Spring Boot** and the **MERN Stack** (MongoDB, Express, React, Node.js).
-- ⚙️ I enjoy building practical projects, like a complete **Banking System** in Java.
+- ⚙️ Currently diving deep into **Advanced DSA**, specifically focusing on mastering **Graphs and Dynamic Programming (DP)**.
+- 🌱 Expanding my backend and full-stack knowledge with **Java Spring Boot** and the **MERN Stack** (MongoDB, Express, React, Node.js).
 - ⚡ Outside of coding, I'm dedicated to improving my English communication skills, preparing for job interviews, and hitting my personal fitness goals to build those 6-pack abs! 🏋️‍♂️
 
 ---
