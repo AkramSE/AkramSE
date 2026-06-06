@@ -159,8 +159,15 @@ https://github.com/AkramSE/Mastering-Core-Java
 
 ## 📈 GitHub Stats
 
+## 📊 Development Journey
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AkramSE&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkramSE&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkramSE&theme=tokyonight" />
 </p>
 
 ---
