@@ -5,51 +5,37 @@ Java Developer • DSA Enthusiast • Software Engineering Student
 </h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkramSE&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramSE&layout=compact&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Developer;Data+Structures+%26+Algorithms+Enthusiast;Building+Projects+with+Core+Java;Learning+Spring+Boot+and+Backend+Development;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AkramSE&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=AkramSE&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
----
-
-# 👨‍💻 About Me
-
-🎓 3rd-Year Software Engineering Student at the **University of Sindh**
-
-💡 Software Engineering student with a strong foundation in **Java**, **Data Structures & Algorithms**, and **Object-Oriented Programming**.
-
-🚀 Actively building real-world projects and solving coding challenges to strengthen problem-solving and backend development skills.
-
-⚡ Interested in **Backend Development**, **Software Design Principles**, and **Scalable Java Applications**.
-
-🎯 Aspiring **Java Backend Developer** focused on creating efficient, maintainable, and production-ready software solutions.
 
 ---
 
-# 💼 Internship Experience
+## 👨‍💻 About Me
 
-## CodeAlpha — Java Development Intern
+🎓 3rd-Year Software Engineering Student at the University of Sindh
 
-During my internship at **CodeAlpha**, I developed Java-based applications that strengthened my understanding of:
+💡 Passionate about solving problems through code and building practical software solutions.
 
-- Core Java
-- Object-Oriented Programming (OOP)
-- Exception Handling
-- Collections Framework
-- File Handling
-- Problem Solving
+🚀 Currently focused on:
 
-### Internship Projects
+- Data Structures & Algorithms
+- Core Java Development
+- Object-Oriented Programming
+- Spring Boot
+- Backend Development
+- Software Design Principles
 
-🏨 Hotel Reservation System
+🎯 Career Goal:
 
-🎓 Student Grade Tracker
+To become a professional Software Engineer specializing in Java Backend Development.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -77,71 +63,62 @@ During my internship at **CodeAlpha**, I developed Java-based applications that 
 
 ---
 
-# ⭐ Featured Repositories
+## 🚀 Featured Projects
 
-| Repository | Description |
-|------------|-------------|
-| [DSA-in-Java](https://github.com/AkramSE/DSA-in-Java) | Data Structures & Algorithms practice repository |
-| [Mastering-Core-Java](https://github.com/AkramSE/Mastering-Core-Java) | Core Java concepts and implementations |
-| [Core-Java-Portfolio](https://github.com/AkramSE/Core-Java-Portfolio) | Collection of Java CLI applications |
-| [CodeAlpha_HotelReservationSystem](https://github.com/AkramSE/CodeAlpha_HotelReservationSystem) | Internship project developed at CodeAlpha |
-| [CodeAlpha_StudentGradeTracker](https://github.com/AkramSE/CodeAlpha_StudentGradeTracker) | Internship project developed at CodeAlpha |
+### 🏨 Hotel Reservation System
 
----
+Core Java project developed during the CodeAlpha Internship.
 
-# 🚀 Featured Projects
+**Highlights**
 
-## 🏨 Hotel Reservation System
-
-A Java-based hotel reservation management application developed during the CodeAlpha Internship.
-
-### Key Features
-
-- Room Booking
-- Reservation Management
-- Customer Records
-- OOP Design
+- Room Reservation Management
+- Customer Information Handling
+- OOP Principles
 - Exception Handling
+- Modular Design
 
-🔗 Repository: https://github.com/AkramSE/CodeAlpha_HotelReservationSystem
-
----
-
-## 🎓 Student Grade Tracker
-
-A Java application designed to manage and analyze student academic performance.
-
-### Key Features
-
-- Grade Management
-- Student Records
-- Performance Tracking
-- OOP Concepts
-
-🔗 Repository: https://github.com/AkramSE/CodeAlpha_StudentGradeTracker
+🔗 Repository:
+https://github.com/AkramSE/CodeAlpha_HotelReservationSystem
 
 ---
 
-## 💳 Bank Account Management System
+### 🎓 Student Grade Tracker
 
-Built using Core Java and HashMap-based data structures.
+Java application for managing and tracking student performance.
 
-### Key Features
+**Highlights**
 
-- Fast Account Lookup
-- Input Validation
-- Exception Handling
-- HashMap Usage
+- Grade Calculation
+- Academic Record Management
+- Performance Analysis
+- Object-Oriented Design
 
-🔗 Repository: https://github.com/AkramSE/Core-Java-Portfolio
+🔗 Repository:
+https://github.com/AkramSE/CodeAlpha_StudentGradeTracker
 
 ---
 
-## 📚 DSA in Java
+### 💳 Core Java Portfolio
 
-My personal repository dedicated to mastering Data Structures & Algorithms.
+Collection of practical Java applications demonstrating strong OOP and data structure concepts.
 
-### Topics Covered
+Projects Included:
+
+- Bank Account Management System
+- Student Management System
+- Library Management System
+- Quiz Application
+
+🔗 Repository:
+https://github.com/AkramSE/Core-Java-Portfolio
+
+---
+
+### 📚 DSA in Java
+
+A repository dedicated to mastering Data Structures and Algorithms.
+
+Topics Covered:
 
 - Arrays
 - Strings
@@ -151,48 +128,47 @@ My personal repository dedicated to mastering Data Structures & Algorithms.
 - Trees
 - Graphs
 - Dynamic Programming
+- Recursion
+- Searching & Sorting
 
-🔗 Repository: https://github.com/AkramSE/DSA-in-Java
+🔗 Repository:
+https://github.com/AkramSE/DSA-in-Java
 
 ---
 
-## ☕ Mastering Core Java
+### ☕ Mastering Core Java
 
-A collection of Java concepts, implementations, and practice exercises.
+Comprehensive Java learning repository covering fundamental to advanced concepts.
 
-### Topics Covered
+Topics Covered:
 
+- Java Fundamentals
 - OOP
 - Collections Framework
 - Exception Handling
 - File Handling
 - Generics
-- Java Fundamentals
+- Java Best Practices
 
-🔗 Repository: https://github.com/AkramSE/Mastering-Core-Java
+🔗 Repository:
+https://github.com/AkramSE/Mastering-Core-Java
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AkramSE&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkramSE&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkramSE&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=AkramSE&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramSE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramSE&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 Coding Profiles
-
-🔹 GitHub: https://github.com/AkramSE 
-
----
-
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Advanced Data Structures
 - Graph Algorithms
@@ -200,23 +176,32 @@ A collection of Java concepts, implementations, and practice exercises.
 - Spring Boot
 - REST APIs
 - Backend Architecture
-- Software Design Patterns
+- Database Design
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 - Solve 500+ DSA Problems
-- Build Production-Level Spring Boot Projects
-- Master Backend Development
-- Learn System Design Fundamentals
+- Build Production-Level Spring Boot Applications
+- Secure a Software Engineering Internship
+- Strengthen Backend Development Skills
 - Contribute to Open Source Projects
 
 ---
 
-# 📫 Connect With Me
+## 🏆 Achievements
 
-<p align="left">
+- Completed CodeAlpha Java Development Internship Projects
+- Built Multiple Core Java Applications
+- Consistently Practicing DSA in Java
+- Actively Expanding Backend Development Skills
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-akram-9139a63b9">
   <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -228,16 +213,12 @@ A collection of Java concepts, implementations, and practice exercises.
 
 </p>
 
-### 🔗 Professional Links
-
-- LinkedIn: https://www.linkedin.com/in/muhammad-akram-9139a63b9
-- GitHub: https://github.com/AkramSE
-- Email: muhammadakram.se.pak@gmail.com
-
 ---
 
-# 💡 Quote
+### 💡 Quote
 
 > Consistency beats intensity. One commit at a time.
 
-⭐ If you like my work, consider following my GitHub journey!
+---
+
+⭐ If you like my work, consider following my GitHub profile and checking out my repositories!
