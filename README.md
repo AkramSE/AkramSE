@@ -5,13 +5,13 @@ Java Developer • DSA Enthusiast • Software Engineering Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Data+Structures+%26+Algorithms+Enthusiast;Building+Real-World+Projects+with+Java;Learning+Spring+Boot+and+Backend+Development;Future+Software+Engineer" />
+<img src="https://github-readme-stats.vercel.app/api?username=AkramSE&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkramSE&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkramSE&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramSE&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 👨‍💻 About Me
