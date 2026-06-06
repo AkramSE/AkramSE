@@ -188,11 +188,7 @@ A collection of Java concepts, implementations, and practice exercises.
 
 # 🏆 Coding Profiles
 
-🔹 GitHub: https://github.com/AkramSE
-
-🔹 HackerRank: Add Your HackerRank Profile Link
-
-🔹 LeetCode: Add Your LeetCode Profile Link
+🔹 GitHub: https://github.com/AkramSE 
 
 ---
 
@@ -208,7 +204,7 @@ A collection of Java concepts, implementations, and practice exercises.
 
 ---
 
-# 🎯 2025 Goals
+# 🎯 2026 Goals
 
 - Solve 500+ DSA Problems
 - Build Production-Level Spring Boot Projects
